@@ -1,2 +1,4 @@
 # tatasteel
-My project combines both technical precision and practical impact, affirming my competence in AI/ML and its applications in industry. 💼📈
+:
+
+🚀 I successfully developed a cutting-edge temperature prediction model in Jupyter Notebook as part of my Tata Steel project! 🔥📊
